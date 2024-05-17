@@ -1,0 +1,32 @@
+/* src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  .scoreboard {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .robot {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .admin-panel {
+    margin-top: 20px;
+  }
+  
+  .admin-controls {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
